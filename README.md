@@ -1,2 +1,2 @@
 # Roulette
-The game of Roulette
+The Game of Roulette
